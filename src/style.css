@@ -1,0 +1,18 @@
+#main-window {
+  scale: 5;
+  border: 1px solid black;
+  image-rendering: pixelated; 
+  image-rendering: crisp-edges;
+}
+
+#container {
+  margin: 350px auto;
+  width:  fit-content;
+  height: fit-content;
+}
+
+html, body {
+  margin: 0;
+  /* height: 100%; */
+  width: 100%;
+}
