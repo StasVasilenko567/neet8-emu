@@ -9,10 +9,12 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/moo": "^0.5.10",
     "typescript": "~5.7.2",
     "vite": "^6.2.0"
   },
   "dependencies": {
-    "lua-in-js": "^2.2.5"
+    "lua-in-js": "^2.2.5",
+    "moo": "^0.3.3"
   }
 }
